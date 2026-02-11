@@ -86,4 +86,3 @@ following their contribution guidelines.
 ## Self-hosted support
 
 For self-hosted NetBird deployments, set `managementUrl` to your management server URL.
-If using the advanced setup, you may need port 33073.
